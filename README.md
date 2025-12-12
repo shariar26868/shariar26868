@@ -101,29 +101,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=shariar26868&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shariar26868&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariar26868&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=shariar26868&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
