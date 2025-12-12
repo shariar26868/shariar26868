@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub Universe
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shariar%20Shaikat&fontSize=42&fontAlignY=32&desc=Machine%20Learning%20|%20Data%20Science%20|%20Deep%20Learning&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shariar%20Emon%20Shaikat&fontSize=42&fontAlignY=32&desc=Machine%20Learning%20|%20Data%20Science%20|%20Deep%20Learning&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=ML+Engineer+%7C+Data+Analyst;Building+AI+Solutions;Learning+Deep+Learning)](https://git.io/typing-svg)
 
