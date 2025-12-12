@@ -83,10 +83,11 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=shariar26868&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shariar26868&theme=tokyonight&hide_border=true" width="48%" />
+![](https://github-readme-stats.vercel.app/api?username=shariar26868&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariar26868&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=shariar26868&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shariar26868&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -96,7 +97,7 @@
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=shariar26868&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![](https://github-profile-trophy.vercel.app/?username=shariar26868&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -106,7 +107,7 @@
 
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=shariar26868&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shariar26868&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -116,7 +117,7 @@
 
 <div align="center">
   
-[![Shariar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shariar26868&theme=tokyo-night&hide_border=true)](https://github.com/shariar26868)
+[![Shariar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shariar26868&theme=github-compact&hide_border=true)](https://github.com/shariar26868)
 
 </div>
 
@@ -126,7 +127,7 @@
   
 ### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
