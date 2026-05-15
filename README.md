@@ -117,7 +117,7 @@ fun_fact    : Way too soft-hearted for a data person 💙
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shariar26868&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shariar26868&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&sideNums=e2e8f0&currStreakNum=e2e8f0" />
+<img width="49%" src="https://streak-stats.demolab.com?user=shariar26868&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&sideNums=e2e8f0&currStreakNum=e2e8f0" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariar26868&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" />
 
