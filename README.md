@@ -1,146 +1,188 @@
 <div align="center">
 
-# 👋 Welcome to My GitHub Universe
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:1a1a2e,100:0d0d0d&height=200&section=header&text=Shariar%20Emon%20Shaikat&fontSize=46&fontAlignY=55&fontColor=e2e8f0&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Builder&descAlignY=75&descSize=16&descFontColor=94a3b8&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shariar%20Emon%20Shaikat&fontSize=42&fontAlignY=32&desc=Machine%20Learning%20|%20Data%20Science%20|%20Deep%20Learning&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+Science+and+ML+Engineer;Building+AI+Solutions;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Turning+raw+data+into+intelligent+decisions+%F0%9F%A7%A0;Building+tomorrow's+AI+systems+today+%F0%9F%9A%80;Open+to+collaborate+%E2%80%94+let%27s+build+something+great+%E2%9C%A6)](https://git.io/typing-svg)
 
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<a href="https://www.linkedin.com/in/shaikat702"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://instagram.com/shariar_emon_shaikat"><img src="https://img.shields.io/badge/Instagram-e1306c?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="https://www.youtube.com/@shariarshaikat"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp;
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=shariar26868&style=flat-square&color=38bdf8&label=Profile+Views"/>
 
 </div>
 
 ---
 
-## 💫 About Me
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+### `> whoami`
 
-- 🔭 Currently working on **Machine Learning & Data Analysis**
-- 👯 Looking to build my **portfolio with meaningful projects**
-- 🌱 Learning **Deep Learning & Neural Networks**
-- 💬 Ask me about **ML, Data Science, Python**
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/shaikat702)**
-- ⚡ Fun fact: **I'm too much soft-hearted**
+```yaml
+name        : Shariar Emon Shaikat
+role        : ML Engineer & Data Scientist
+location    : Bangladesh 🇧🇩
+focus       : Deep Learning · Neural Networks · AI Systems
+status      : Open to collaboration & freelance
+passion     : Building AI that actually solves real problems
+superpower  : Turning messy data into clean insights
+fun_fact    : Way too soft-hearted for a data person 💙
+```
 
 <br clear="both"/>
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ What I'm Up To
+
+```
+🔭  Working on ............ Machine Learning & Data Analysis Projects
+🧠  Learning .............. Deep Learning, Transformers & Neural Nets  
+🤝  Looking for ........... Meaningful open-source collaborations
+📦  Building .............. A portfolio that actually matters
+💬  Talk to me about ...... ML, Data Science, Python, AI pipelines
+```
+
+---
+
+## 🛠 Tech Arsenal
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shariar_emon_shaikat) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikat702)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@shariarshaikat)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
+### 🧬 Core Languages
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3b82f6&labelColor=1e293b)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=38bdf8&labelColor=1e293b)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=facc15&labelColor=1e293b)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=818cf8&labelColor=1e293b)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=f97316&labelColor=1e293b)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=38bdf8&labelColor=1e293b)
+
+### 🤖 AI / ML Stack
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=f97316&labelColor=1e293b)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ef4444&labelColor=1e293b)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=dc2626&labelColor=1e293b)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f97316&labelColor=1e293b)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=22c55e&labelColor=1e293b)
+
+### 📊 Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=38bdf8&labelColor=1e293b)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=a78bfa&labelColor=1e293b)
+![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=for-the-badge&logo=scipy&logoColor=3b82f6&labelColor=1e293b)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=818cf8&labelColor=1e293b)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=facc15&labelColor=1e293b)
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=facc15&labelColor=1e293b)
+
+### 🌐 Web & Backend
+
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=22c55e&labelColor=1e293b)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=e2e8f0&labelColor=1e293b)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=38bdf8&labelColor=1e293b)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=22c55e&labelColor=1e293b)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=38bdf8&labelColor=1e293b)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=facc15&labelColor=1e293b)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=22c55e&labelColor=1e293b)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=38bdf8&labelColor=1e293b)
+
+### 🧰 DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f97316&labelColor=1e293b)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=38bdf8&labelColor=1e293b)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=facc15&labelColor=1e293b)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=f97316&labelColor=1e293b)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8&labelColor=1e293b)
+![Anaconda](https://img.shields.io/badge/Anaconda-0d1117?style=for-the-badge&logo=anaconda&logoColor=22c55e&labelColor=1e293b)
+
+### 🎨 Design
+
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=f97316&labelColor=1e293b)
+![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=38bdf8&labelColor=1e293b)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff&labelColor=1e293b)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 📊 GitHub Stats
 
 <div align="center">
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shariar26868&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shariar26868&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&sideNums=e2e8f0&currStreakNum=e2e8f0" />
 
-### **Machine Learning & AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### **Data Science Libraries**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-### **Data Visualization**
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2318BDBB.svg?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### **Web Development**
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### **Design Tools**
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariar26868&layout=pie&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariar26868&theme=react-dark&hide_border=true&area=true" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shariar26868/shariar26868/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shariar26868/shariar26868/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shariar26868/shariar26868/output/github-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-## 📈 Profile Summary
+## 📈 Activity Graph
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariar26868&theme=radical)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariar26868&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariar26868&theme=radical" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariar26868&theme=github-compact&bg_color=0d1117&color=38bdf8&line=3b82f6&point=f97316&area=true&area_color=1e3a5f&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=shariar26868&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" width="95%"/>
 
 </div>
 
 ---
 
-
-## 👁️ Visitor Count
+## 💡 Dev Wisdom
 
 <div align="center">
 
-![](https://visitcount.itsvg.in/api?id=shariar26868&label=Profile%20Views&color=12&icon=5&pretty=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  Open for freelance · collaboration · research projects  ║
+║  Especially in: ML Systems · Data Pipelines · AI Apps    ║
+║                                                          ║
+║  📍 Bangladesh    🕐 UTC+6    💬 EN / বাংলা              ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikat702)
 
 </div>
 
@@ -148,12 +190,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0d0d0d,100:1a1a2e&height=120&section=footer&fontColor=94a3b8&fontSize=14" width="100%"/>
 
-### 💼 Open for collaboration and freelance opportunities
-
-### ⭐ If you find my work interesting, consider starring my repositories!
-
-### 📫 Feel free to reach out for Machine Learning projects or collaborations
+*"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
 </div>
